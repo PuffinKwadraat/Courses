@@ -1,0 +1,11 @@
+{
+  "name": "learn-javascript",
+  "version": "1.0.0",
+  "description": "Codecademy lesson files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "PuffinKwadraat",
+  "license": "ISC"
+}
